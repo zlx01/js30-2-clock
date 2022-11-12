@@ -1,6 +1,6 @@
 # js30-2 clock
 
-![](./assets/img/clock.jpg)
+![](./assets/img/clock.gif)
 
 ## reference
 
